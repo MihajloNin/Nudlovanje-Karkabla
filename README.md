@@ -70,3 +70,4 @@ Ovaj naučni rad naglašava ključnu ulogu "nudlovanja karkabala" u svetu elektr
 
 Ovaj dokument je šala i navedene informacije nisu proverene niti tačne :)
 
+ 
