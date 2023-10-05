@@ -35,7 +35,7 @@ for i in range(2, 273):
     fibonacci_niz.append(fibonaci(i))
 
 # Ovde se nalazi "Pametan si"
-print("Pametan si")
+print("Glup si")
 
 # Funkcija za primenu Furijeve transformacije na matricu
 def furijeva_transformacija(matrica):
