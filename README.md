@@ -68,4 +68,5 @@ Ovaj naučni rad naglašava ključnu ulogu "nudlovanja karkabala" u svetu elektr
 
 ---
 
-Ovaj prošireni naučni rad pruža detaljniju analizu "nudlovanja karkabala" u različitim kontekstima i sektorima, istražujući implikacije i izazove koje ovaj koncept donosi u svet elektronike i tehnologije. Ovo je samo osnova, a dalje možete dodavati specifične primere, rezultate istraživanja i dodatnu literaturu kako biste dodatno obogatili svoj rad.
+Ovaj dokument je šala i navedene informacije nisu proverene niti tačne :)
+
